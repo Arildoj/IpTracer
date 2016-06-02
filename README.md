@@ -1,2 +1,2 @@
 # IpTracer
-Create a web site to check online pages and generate random pages.
+Create a web site to check online pages and generate random valid IP.
