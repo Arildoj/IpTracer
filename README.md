@@ -23,7 +23,7 @@ The project using the Bootstrap framework CSS in html page to make more impressi
 
 The structure is compose for:
 
-**All description about code is present in own code by comments.**
+**All description about code is present in own code.**
 
 ## Credits
 
