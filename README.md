@@ -4,7 +4,7 @@ Create a web site to check online pages and generate random valid IP.
 ## FAQ 
 
 **What is it?**<br/>
-This is a simple web site developed to confirm the actual pages status or is possible you generate a random valid Ip and verify if it already exist.
+This is a simple web site developed to check the actual state of the web pages or is possible you generate a random valid IP and verify if it already exists.
 
 **How this work?**<br/>
 The engine is made in JavaScript language, you can enter with an URL and test if is online or not.
