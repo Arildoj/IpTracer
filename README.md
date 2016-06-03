@@ -9,7 +9,7 @@ This is a simple web site developed to check the actual state of the web pages o
 **How this work?**<br/>
 The engine is made in JavaScript language, you can enter with an URL and test if is online or not.
 
-## Structural Elements
+## Structural composition
 
 1. Html
 2. JavaScript
@@ -17,11 +17,10 @@ The engine is made in JavaScript language, you can enter with an URL and test if
 
 ## Description
 
-The project using the Bootstrap framework CSS in html page to make more impressive the visual interface.
+The project uses the Bootstrap framework CSS in html page to make more impressive the visual interface.
 
-![](https://)
-
-The structure is compose for:
+![ilustration 1](https://github.com/Arildoj/IpTracer/blob/master/img/wiki/Sample1.png)
+![ilustration 2](https://github.com/Arildoj/IpTracer/blob/master/img/wiki/Sample2.png)
 
 **All description about code is present in own code.**
 
