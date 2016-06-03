@@ -1,0 +1,25 @@
+@font-face {
+    font-family: Bitmap; /*nome da fonte*/
+    src: url(fonts/04B_30__.TTF); /* url da fonte*/
+}
+
+#alinhamento {
+    text-align: center;
+    padding-top: 70px;
+
+}
+
+#detetive {
+    background-color:white;
+
+}
+
+
+#correcao {
+    padding-top:10px;
+}
+
+body{
+    background-color: whitesmoke;
+    font-family: cursive;    
+}
