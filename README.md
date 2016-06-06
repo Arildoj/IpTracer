@@ -20,6 +20,7 @@ The engine is made in JavaScript language, you can enter with an URL and test if
 The project uses the Bootstrap framework CSS in html page to make more impressive the visual interface.
 
 ![ilustration 1](https://github.com/Arildoj/IpTracer/blob/master/img/wiki/Sample1.png)
+<br/>
 ![ilustration 2](https://github.com/Arildoj/IpTracer/blob/master/img/wiki/Sample2.png)
 
 **All description about code is present in own code.**
